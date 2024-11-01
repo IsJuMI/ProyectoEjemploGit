@@ -1,3 +1,5 @@
-# A first-level heading
-## A second-level heading
-### A third-level heading
+# Práctica 1 : Introducción a Git
+## Descripción
+## Instruccines de uso
+## Comandos utilizados
+## Notas sobre el archivo .gitignore
